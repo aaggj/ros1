@@ -1,0 +1,8 @@
+prefix=/home/agg/ros/ros1/softarq_ws/src/software_arq_robots_course/tests_alberto/devel
+
+Name: tests_alberto
+Description: Description of tests_alberto
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
